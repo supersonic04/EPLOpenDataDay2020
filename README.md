@@ -13,4 +13,4 @@ In this workshop you'll learn how to use Kepler.gl to create beautiful maps usin
 
 #### [City of Edmonton: Neighbourhood Boundaries](https://data.edmonton.ca/Geospatial-Boundaries/City-of-Edmonton-Neighbourhood-Boundaries/jfvj-x253)
 
-### [Earthquakes in Canada](https://open.canada.ca/data/en/dataset/2c3672b6-4c17-4ff5-9861-29e2dd6d03b3)
+#### [Earthquakes in Canada](https://open.canada.ca/data/en/dataset/2c3672b6-4c17-4ff5-9861-29e2dd6d03b3)
